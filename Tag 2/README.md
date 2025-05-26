@@ -86,6 +86,3 @@ Wir haben noch ein Cheatsheet erstellt:
 | `sudo apt install [paket]`        | Installiert ein Paket                  |
 | `sudo apt remove [paket]`         | Entfernt ein Paket                     |
 
----
-
-
