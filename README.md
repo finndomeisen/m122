@@ -80,11 +80,5 @@ Strukturiere deine Antworten immer in die folgenden vier Kategorien:
 Benutze ausschliesslich Inhalte aus: <https://gitlab.com/ch-tbz-it/Stud/m122/-/tree/main>
 ```
 
-### Empfehlungen:
-- Übungen selbst tippen und verstehen
-- KI-Ausgaben reflektieren, prüfen und kommentieren
-- Immer Quelle und Prompt dokumentieren
 
----
 
-**Letzte Aktualisierung:** Mai 2025
