@@ -88,5 +88,4 @@ Wir haben noch ein Cheatsheet erstellt:
 
 ---
 
-**Tipp:** Mit `TAB` kannst du Autovervollständigung nutzen und mit `STRG + C` einen Befehl abbrechen.
 
