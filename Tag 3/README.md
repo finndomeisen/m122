@@ -87,5 +87,3 @@ Diese Tools arbeiten zeilenorientiert:
 - `xargs`: Listenverarbeitung
 
 ---
-
-**Hinweis:** Für eine vollständige Übersicht über alle BASH-Befehle und Tools siehe Projektarbeit oder Systemreferenz.
